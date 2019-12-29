@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(Fon.png) no-repeat center top/cover;
+}
+header{
+	height: 60px;
+	background: #6AA7B6;
+	
+}
+div{
+	box-sizing: border-box;
+	
+}
+.conteiner{
+	font-family: Arial, sanc-sarif;
+	width: 1000px;
+	margin: 0 auto;
+	height: 420px;
+	
+}
+.logo{
+	float: left;
+	display: block;
+	padding-top: 15px;
+}
+.conteiner_logo{
+	font-family: Arial, sanc-sarif;
+	width: 1000px;
+	margin: 0 auto;
+	height: 60px;
+	}
+.menu{
+	float: right;
+	padding-top: 1px;
+}
+.heading{
+	
+
+}
