@@ -9,7 +9,7 @@ header{
 	background: url(Layer 1.png) no-repeat center top/cover;
 	opacity: 1;
 
-	
+
 }
 footer{
 	background: #fff;
@@ -18,15 +18,16 @@ footer{
 	width: 100%;
 	text-align: center;
 	padding-top: 125px;
-	
+}
+
 a{
 	position: relative;
 	text-decoration: none;
 	color: #A3A3A3;
-	
+
 }
 li{
-	list-style-type: none;	
+	list-style-type: none;
 }
 
 .conteiner{
@@ -34,7 +35,7 @@ li{
 	width: 1000px;
 	margin: 0 auto;
 	height: 420px;
-	
+
 }
 
 
@@ -42,9 +43,10 @@ li{
 	float: left;
 	display: block;
 	padding-top: 15px;
+	background: url(Layer1.png);
 }
 .conteiner_logo{
-	
+
 	width: 1000px;
 	margin: 0 auto;
 	height: 60px;
@@ -53,12 +55,11 @@ li{
 	float: right;
 	padding-top: 1px;
 }
-.heading{
-	
 
-}
 
-}
+
+
+
 .down{
 	display: flex;
 	flex-direction: row;
